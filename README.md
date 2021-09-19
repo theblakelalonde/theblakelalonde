@@ -1,7 +1,8 @@
 # About Me
- Blake Lalonde
-- 🐯 LSU '23
+- 😀 Blake Lalonde
+- 🐅 LSU '23
 - 💻 Studying Computer Science / Software Development
+- 📫 blalon3@lsu.edu
 
 # Portfolio
 
@@ -10,15 +11,3 @@ As a project in my Advanced Data Structures and Algorithm Analysis course at LSU
 
 ### [Goober](https://github.com/theblakelalonde/csc_3380)
 As part of an Object-Oriented Deisgn course, a group of classmates and I created an app to aide pairing students needing tutors in specific classes.  In this project, I mainly worked on front-end, as well as assisted on implementing functions on the back-end.
-**theblakelalonde/theblakelalonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
