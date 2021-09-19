@@ -1,7 +1,7 @@
 # Portfolio
 
 ### [Dijkstra's Algorithm](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
-As a project in my Advanced Data Structures and Algorithm Analysis course at LSU, I was tasked with creating a program using Dijkstra's Algorithm to determine the quickets flight path to get from one airport to another.  We were provided a text document with thousands of flights and details and were required to use these flights to ensure our algorithm worked.
+As a project in my Advanced Data Structures and Algorithm Analysis course at LSU, I was tasked with creating a program using Dijkstra's Algorithm to determine the quickets flight path to get from one airport to another.  We were provided a text document with +13000 flights and details and were required to use these flights to ensure our algorithm worked.
 
 
 <!--
