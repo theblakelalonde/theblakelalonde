@@ -1,5 +1,5 @@
 # About Me
-[image](https://user-images.githubusercontent.com/78009242/133943500-3e31b50f-7234-456a-826d-a537953f8e41.png)
+https://user-images.githubusercontent.com/78009242/133943500-3e31b50f-7234-456a-826d-a537953f8e41.png
  Blake Lalonde
 - 🐯 LSU '23
 - 💻 Studying Computer Science / Software Development
