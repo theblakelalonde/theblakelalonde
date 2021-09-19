@@ -1,7 +1,7 @@
 # About Me
-👤 Blake Lalonde
-🐯 LSU '23
-💻 Studying Computer Science / Software Development
+- 👤 Blake Lalonde
+- 🐯 LSU '23
+- 💻 Studying Computer Science / Software Development
 
 # Portfolio
 
