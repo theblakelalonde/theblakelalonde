@@ -1,8 +1,3 @@
-### Welcome to my GitHub
-
-
-
-
 # Portfolio
 
 ### Dijkstra's Algorithm
