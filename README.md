@@ -1,3 +1,8 @@
+# About Me
+👤 Blake Lalonde
+🐯 LSU '23
+💻 Studying Computer Science / Software Development
+
 # Portfolio
 
 ### [Dijkstra's Algorithm](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
