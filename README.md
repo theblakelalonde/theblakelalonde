@@ -5,7 +5,8 @@
 
 # Portfolio
 
-Goober
+## Dijkstra's Algorithm
+As a project in my Advanced Data Structures and Algorithm Analysis course at LSU, I was tasked with creating a program using Dijkstra's Algorithm to determine the quickets flight path to get from one airport to another.  We were provided a text document with thousands of flights and details and were required to use these flights to ensure our algorithm worked.
 
 
 <!--
