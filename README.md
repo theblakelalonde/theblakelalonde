@@ -5,7 +5,7 @@
 
 # Portfolio
 
-** Here are my projects that I have completed
+Here are my projects that I have completed
 
 
 <!--
