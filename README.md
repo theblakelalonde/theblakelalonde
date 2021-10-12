@@ -6,8 +6,7 @@
 
 # Portfolio
 
-### [Mog](https://github.com/bryantran21/Mog)
-####(In Progress)
+### [Mog](https://github.com/bryantran21/Mog) (In Progress)
 As part of a Software-Systems Development course at LSU, a group of classmates and I created an all-in-one social-fitness.  The app was designed to incorporate a social media aspect to promote going to the gym and maintaining a healthy lifestyle.  The app allows you to join your workout-friends in a group and encourages accountability among peers.  It also has other commonly-used features such as a nutrition diary and a weightlifting diary.
 
 ### [Dijkstra's Algorithm](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
