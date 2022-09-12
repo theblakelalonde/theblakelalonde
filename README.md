@@ -20,7 +20,7 @@ I am currently attending Louisiana State University, where I intend on graduatin
 # Projects
 
 ## Filesystem - *Spring 2022*
-As part of an Operating-Systems course at LSU, a partner and I created a working local filesystem that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project.
+As part of an Operating Systems course at LSU, a partner and I created a working local filesystem that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project.
 
 <img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/filesystem_diagram.png">
 
@@ -28,7 +28,7 @@ As part of an Operating-Systems course at LSU, a partner and I created a working
 
 <img src="https://github.com/bryantran21/Mog/blob/main/assets/images/mogIconRed.png" width=150>
 
-As part of a Software-Systems Development course at LSU, a group of classmates and I created an all-in-one social-fitness.  The app is designed to incorporate a social media aspect to promote going to the gym and maintaining a healthy lifestyle by allowing you to join your workout friends in a group and encourages accountability among peers.  It also has other commonly-used features such as a nutrition diary and a weightlifting diary.
+As part of a Software Systems Development course at LSU, a group of classmates and I created an all-in-one social-fitness.  The app is designed to incorporate a social media aspect to promote going to the gym and maintaining a healthy lifestyle by allowing you to join your workout friends in a group and encourages accountability among peers.  It also has other commonly-used features such as a nutrition diary and a weightlifting diary.
 
 
 
