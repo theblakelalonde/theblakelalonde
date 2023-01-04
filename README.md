@@ -35,7 +35,7 @@ As part of a Software Systems Development course at LSU, a group of classmates a
 
 ## Marvelous Movies Website
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/s-gtK80vdXE/0.jpg)](http://www.youtube.com/watch?v=s-gtK80vdXE "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/s-gtK80vdXE/0.jpg)](http://www.youtube.com/watch?v=s-gtK80vdXE "Marvelous Movies")
 
 ## Dijkstra's Algorithm - *Fall 2020* [(GitHub link)](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
 As a project in my Advanced Data Structures and Algorithm Analysis course at LSU, I was tasked with creating a program using Dijkstra's Algorithm to determine the quickets flight path to get from one airport to another.  We were provided a text document with +13000 flights and details and were required to use these flights to ensure our algorithm worked.
