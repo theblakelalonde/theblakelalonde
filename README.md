@@ -33,6 +33,9 @@ Due to academic honesty rules, I am not allowed to share my source code for this
 As part of a Software Systems Development course at LSU, a group of classmates and I created an all-in-one social-fitness.  The app is designed to incorporate a social media aspect to promote going to the gym and maintaining a healthy lifestyle by allowing you to join your workout friends in a group and encourages accountability among peers.  It also has other commonly-used features such as a nutrition diary and a weightlifting diary.
 
 
+## Marvelous Movies Website
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/s-gtK80vdXE/0.jpg)](http://www.youtube.com/watch?v=s-gtK80vdXE "Video Title")
 
 ## Dijkstra's Algorithm - *Fall 2020* [(GitHub link)](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
 As a project in my Advanced Data Structures and Algorithm Analysis course at LSU, I was tasked with creating a program using Dijkstra's Algorithm to determine the quickets flight path to get from one airport to another.  We were provided a text document with +13000 flights and details and were required to use these flights to ensure our algorithm worked.
