@@ -34,7 +34,9 @@ As part of a Software Systems Development course at LSU, a group of classmates a
 
 
 ## Marvelous Movies Website
+As part of a Networking course at LSU, I was tasked with creating a 3-Tier Website Application hosted on an EC2 Instance. 
 
+Below is a video demo of the website that was created for class.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/s-gtK80vdXE/0.jpg)](http://www.youtube.com/watch?v=s-gtK80vdXE "Marvelous Movies")
 
 ## Dijkstra's Algorithm - *Fall 2020* [(GitHub link)](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
