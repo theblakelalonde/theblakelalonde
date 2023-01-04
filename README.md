@@ -22,6 +22,8 @@ I am currently attending Louisiana State University, where I intend on graduatin
 ## Filesystem - *Spring 2022*
 As part of an Operating Systems course at LSU, a partner and I created a working local filesystem that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project.
 
+Due to academic honesty rules, I am not allowed to share my source code for this project.
+
 <img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/filesystem_diagram.png">
 
 ## Mog - *Fall 2021* [(GitHub link)](https://github.com/bryantran21/Mog)
