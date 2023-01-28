@@ -30,7 +30,7 @@ As part of a Networking course at LSU, I was tasked with creating a 3-Tier Websi
 
 Below is a video demo of the website that was created for class.
 
-[![IMAGE ALT TEXT](https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/marvlous%20movies%20thumbnail.jpg)](http://www.youtube.com/watch?v=s-gtK80vdXE "Marvelous Movies")
+[<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/marvelous%20movies%20thumbnail.jpg" width=350>](http://www.youtube.com/watch?v=s-gtK80vdXE)
 
 ## Filesystem - *Spring 2022*
 As part of an Operating Systems course at LSU, a partner and I created a working local filesystem that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project and assisted us by having a concrete blueprint of where to begin.
