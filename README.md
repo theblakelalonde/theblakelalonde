@@ -40,10 +40,12 @@ Below is a video demo of the website that was created for class.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/s-gtK80vdXE/0.jpg)](http://www.youtube.com/watch?v=s-gtK80vdXE "Marvelous Movies")
 
+## Goober - *Spring 2021* [(GitHub link)](https://github.com/theblakelalonde/csc_3380)
+As part of an Object-Oriented Deisgn course at LSU, a group of classmates and I created an app to aide pairing students needing tutors in specific classes.  In this project, I mainly worked on front-end, as well as assisted on implementing functions on the back-end.
+
 ## Dijkstra's Algorithm - *Fall 2020* [(GitHub link)](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
 As a project in my Advanced Data Structures and Algorithm Analysis course at LSU, I was tasked with creating a program using Dijkstra's Algorithm to determine the quickets flight path to get from one airport to another.  We were provided a text document with +13000 flights and details and were required to use these flights to ensure our algorithm worked.
 
-## Goober - *Spring 2021* [(GitHub link)](https://github.com/theblakelalonde/csc_3380)
-As part of an Object-Oriented Deisgn course at LSU, a group of classmates and I created an app to aide pairing students needing tutors in specific classes.  In this project, I mainly worked on front-end, as well as assisted on implementing functions on the back-end.
+
 
 
