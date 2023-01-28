@@ -25,7 +25,7 @@ I am currently attending Louisiana State University, where I intend on graduatin
 
 As part of a Software Systems Development course at LSU, a group of classmates and I created an all-in-one social-fitness.  The app is designed to incorporate a social media aspect to promote going to the gym and maintaining a healthy lifestyle by allowing you to join your workout friends in a group and encourages accountability among peers.  It also has other commonly-used features such as a nutrition diary and a weightlifting diary.
 
-## Marvelous Movies Website *Fall 2022*
+## Marvelous Movies Website - *Fall 2022*
 As part of a Networking course at LSU, I was tasked with creating a 3-Tier Website Application hosted on an EC2 Instance. 
 
 Below is a video demo of the website that was created for class.
