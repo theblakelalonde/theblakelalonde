@@ -19,19 +19,11 @@ I am currently attending Louisiana State University, where I intend on graduatin
 
 # Projects
 
-## Filesystem - *Spring 2022*
-As part of an Operating Systems course at LSU, a partner and I created a working local filesystem that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project.
-
-Due to academic honesty rules, I am not allowed to share my source code for this project.
-
-<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/filesystem_diagram.png">
-
 ## Mog - *Fall 2021* [(GitHub link)](https://github.com/bryantran21/Mog)
 
 <img src="https://github.com/bryantran21/Mog/blob/main/assets/images/mogIconRed.png" width=150>
 
 As part of a Software Systems Development course at LSU, a group of classmates and I created an all-in-one social-fitness.  The app is designed to incorporate a social media aspect to promote going to the gym and maintaining a healthy lifestyle by allowing you to join your workout friends in a group and encourages accountability among peers.  It also has other commonly-used features such as a nutrition diary and a weightlifting diary.
-
 
 ## Marvelous Movies Website
 As part of a Networking course at LSU, I was tasked with creating a 3-Tier Website Application hosted on an EC2 Instance. 
@@ -39,6 +31,13 @@ As part of a Networking course at LSU, I was tasked with creating a 3-Tier Websi
 Below is a video demo of the website that was created for class.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/s-gtK80vdXE/0.jpg)](http://www.youtube.com/watch?v=s-gtK80vdXE "Marvelous Movies")
+
+## Filesystem - *Spring 2022*
+As part of an Operating Systems course at LSU, a partner and I created a working local filesystem that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project.
+
+Due to academic honesty rules, I am not allowed to share my source code for this project.
+
+<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/filesystem_diagram.png">
 
 ## Goober - *Spring 2021* [(GitHub link)](https://github.com/theblakelalonde/csc_3380)
 As part of an Object-Oriented Deisgn course at LSU, a group of classmates and I created an app to aide pairing students needing tutors in specific classes.  In this project, I mainly worked on front-end, as well as assisted on implementing functions on the back-end.
