@@ -15,7 +15,7 @@ I am currently attending Louisiana State University, where I intend on graduatin
 
 |                                                                 Company                                                                 |    Date     | Experience Description                                                                                                                                     |
 | :-------------------------------------------------------------------------------------------------------------------------------------: | :---------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/Tyson_logo.png" width=250>](https://www.tysonfoods.com/) | Summer 2022 | Worked on multiple teams at Tech@Tyson, including the "*Emerging Tech*" team, where I assisted in updating their workflow by creating automatic processes. |
+| [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/Tyson_logo.png" width=250>](https://www.tysonfoods.com/) | Summer 2022 | Worked on multiple teams at Tech@Tyson, including the "*Emerging Tech*" team, where I assisted in updating their workflow by creating automatic processes for their back-end. |
 
 # Projects
 
