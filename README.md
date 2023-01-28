@@ -5,7 +5,7 @@
 [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/Blake_Lalonde_headshot_image.png" width=350>](https://github.com/theblakelalonde/theblakelalonde)
 
 ## Education
-I am currently attending Louisiana State University, where I intend on graduating in the Spring of 2023 with a Bachelor's Degree in Computer Science, a concentration in Software Development.
+I am currently attending Louisiana State University, where I intend on graduating in the Spring of 2023 with a Bachelor's Degree in Computer Science, a concentration in Software Development and an interest in Web Development.
 
 [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/LSU_logo.png" width=350>](https://www.lsu.edu/eng/)
 
