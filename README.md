@@ -42,9 +42,7 @@ Due to academic honesty rules, I am not allowed to share my source code for this
 ## Goober - *Spring 2021* [(GitHub link)](https://github.com/theblakelalonde/csc_3380)
 As part of an Object-Oriented Deisgn course at LSU, a group of classmates and I created an app to aide pairing students needing tutors in specific classes.  In this project, I mainly worked on front-end, as well as assisted on implementing functions on the back-end.
 
+This project was my first experience coding in Java.  Starting off college in Computer Engineering and switching after my first year, my freshman year consisted of coding in just C++.  However, everyone else in my group had prior experience developing in Java, so I had to learn quickly.
+
 ## Dijkstra's Algorithm - *Fall 2020* [(GitHub link)](https://github.com/theblakelalonde/theblakelalonde/tree/Dijkstra-Algorithm)
 As a project in my Advanced Data Structures and Algorithm Analysis course at LSU, I was tasked with creating a program using Dijkstra's Algorithm to determine the quickets flight path to get from one airport to another.  We were provided a text document with +13000 flights and details and were required to use these flights to ensure our algorithm worked.
-
-
-
-
