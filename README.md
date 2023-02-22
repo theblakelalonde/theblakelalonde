@@ -33,11 +33,12 @@ Below is a video demo of the website that was created for class.
 [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/marvelous%20movies%20thumbnail.jpg" width=600>](http://www.youtube.com/watch?v=s-gtK80vdXE)
 
 ## Filesystem - *Spring 2022*
-As part of an Operating Systems course at LSU, a partner and I created a working local filesystem that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project and assisted us by having a concrete blueprint of where to begin.
-
-Due to academic honesty rules, I am not allowed to share my source code for this project.
+As part of an Operating Systems course at LSU, a partner and I created a working local filesystem written in C language that would need to pass various tests provided by the professor.  Below is the diagram that I created during the planning period of our project and assisted us by having a concrete blueprint of where to begin.
 
 <img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/filesystem_diagram.png">
+
+Due to academic honesty rules, I am not allowed to share my source code for this project, but I can send it privately if I need to.
+
 
 ## Goober - *Spring 2021* [(GitHub link)](https://github.com/theblakelalonde/csc_3380)
 As part of an Object-Oriented Deisgn course at LSU, a group of classmates and I created an app to aide pairing students needing tutors in specific classes.  In this project, I mainly worked on front-end, as well as assisted on implementing functions on the back-end.
