@@ -1,6 +1,6 @@
 # About Me
 
-## Blake Lalonde (blalon3@lsu.edu)
+## Blake Lalonde (balalonde01@gmail.com)
 
 [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/Blake_Lalonde_Headshot_LSU.jpg" width=350>](https://github.com/theblakelalonde/theblakelalonde)
 
