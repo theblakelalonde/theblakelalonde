@@ -2,10 +2,8 @@
 
 ## Blake Lalonde (balalonde01@gmail.com)
 
-[<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/Blake_Lalonde_Headshot_LSU.jpg" width=350>](https://github.com/theblakelalonde/theblakelalonde)
-
 ## Education
-I am currently attending Louisiana State University, where I intend on graduating in the Spring of 2023 with a Bachelor's Degree in Computer Science, a concentration in Software Development and an interest in Web Development.
+I graduated from Louisiana State University in the Spring of 2023 with a Bachelor's Degree in Computer Science, a concentration in Software Development, and an interest in Web Development.
 
 [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/LSU_logo.png" width=350>](https://www.lsu.edu/eng/)
 
