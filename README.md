@@ -16,7 +16,7 @@ I graduated from Louisiana State University in the Spring of 2023 with a Bachelo
 | [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/V2-Logo.png" height=100>](http://www.velocitysquared.com/) | June 2023 - | Junior Web Developer working in C# and ASP.NET |
 | [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/Tyson-Foods-Logo.jpg" width=250>](https://www.tysonfoods.com/) | Summer 2022 | Worked on multiple teams at Tech@Tyson, including the "*Emerging Tech*" team, where I assisted in updating their workflow by creating automatic processes for their back-end. |
 
-# Projects
+# School Projects
 
 ## Mog - *Fall 2021* [(GitHub link)](https://github.com/bryantran21/Mog)
 
