@@ -2,12 +2,6 @@
 
 ## Blake Lalonde (balalonde01@gmail.com)
 
-## Education
-I graduated from Louisiana State University in the Spring of 2023 with a Bachelor's Degree in Computer Science, a concentration in Software Development, and an interest in Web Development.
-
-[<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/LSU_logo.png" width=350>](https://www.lsu.edu/eng/)
-
-
 # Experience
 
 
@@ -15,6 +9,13 @@ I graduated from Louisiana State University in the Spring of 2023 with a Bachelo
 | :-------------------------------------------------------------------------------------------------------------------------------------: | :---------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/V2-Logo.png" height=100>](http://www.velocitysquared.com/) | June 2023 - | Junior Web Developer working in C# and ASP.NET |
 | [<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/Tyson-Foods-Logo.jpg" width=250>](https://www.tysonfoods.com/) | Summer 2022 | Worked on multiple teams at Tech@Tyson, including the "*Emerging Tech*" team, where I assisted in updating their workflow by creating automatic processes for their back-end. |
+
+## Education
+I graduated from Louisiana State University in the Spring of 2023 with a Bachelor's Degree in Computer Science, a concentration in Software Development, and an interest in Web Development.
+
+[<img src="https://github.com/theblakelalonde/theblakelalonde/blob/main/Assets/LSU_logo.png" width=350>](https://www.lsu.edu/eng/)
+
+
 
 # School Projects
 
