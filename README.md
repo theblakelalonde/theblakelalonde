@@ -1,6 +1,6 @@
 <h1 align="center">🪪 Blake Lalonde</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;LSU+Tiger;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;LSU+Tiger;Golfer+(20+HCP);BIG+Sports+Guy" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 - 💼 Full-stack developer with 2+ years of professional experience
-- 🛠️ Skilled in **C#**, **.NET**, **JavaScript**, **SQL**, **CSS**, and **HTML**
+- 🛠️ Skilled in **C#**, **.NET**,  **HTML**, **JavaScript**, **CSS**, and **SQL**
 - 🌐 Working on a photography solution website and Windows applications @ Velocity Squared
 
 ---
@@ -35,6 +35,12 @@
 </p>
 
 ---
+
+### 💻 Personal Projects
+
+- ❄️ Snowflake Discord Bot - Personal Discord bot that helps maintain my community Discord server
+- 🕸️ Personal Website - Early stages of working on a multi-purpose personal website
+
 
 ### 📫 How to Reach Me
 
