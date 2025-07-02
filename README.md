@@ -27,14 +27,14 @@
 
 ---
 
-### 📈 GitHub Stats
+<!--  ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theblakelalonde&show_icons=true&theme=github_dark&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theblakelalonde&theme=github-dark-blue" />
 </p>
 
----
+--- -->
 
 ### 💻 Personal Projects
 
