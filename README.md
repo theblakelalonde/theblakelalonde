@@ -39,7 +39,7 @@
 ### 💻 Personal Projects
 
 - ❄️ Snowflake Discord Bot - Personal Discord bot that helps maintain my community Discord server
-- 🕸️ Personal Website - Early stages of working on a multi-purpose personal website
+- 🖥️ Personal Website - Early stages of working on a multi-purpose personal website
 
 
 ### 📫 How to Reach Me
