@@ -1,6 +1,6 @@
 <h1 align="center">🪪 Blake Lalonde</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;LSU+Tiger;Golfer+(20+HCP);BIG+Sports+Guy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;LSU+Tiger;Golfer+(18+HCP);BIG+Sports+Guy" />
 </p>
 
 ---
