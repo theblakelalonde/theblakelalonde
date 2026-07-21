@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Full-stack developer with 2+ years of professional experience
+- 💼 Full-stack developer with 3+ years of professional experience
 - 🛠️ Skilled in **C#**, **.NET**,  **HTML**, **JavaScript**, **CSS**, and **SQL**
 - 🌐 Working on a photography solution website and Windows applications @ Velocity Squared
 
@@ -39,7 +39,7 @@
 ### 💻 Personal Projects
 
 - ❄️ Snowflake Discord Bot - Personal Discord bot that helps maintain my community Discord server
-- 🖥️ Personal Website - Early stages of working on a multi-purpose personal website
+- 🖥️ Personal Website
 
 
 ### 📫 How to Reach Me
