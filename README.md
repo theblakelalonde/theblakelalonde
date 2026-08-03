@@ -7,9 +7,10 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Full-stack developer with 3+ years of professional experience
-- 🛠️ Skilled in **C#**, **.NET**,  **HTML**, **JavaScript**, **CSS**, and **SQL**
-- 🌐 Working on a photography solution website and Windows applications @ Velocity Squared
+- 💼 Full-stack developer with 3 years of professional experience
+- 🐯 B.S. in Computer Science from LSU
+- 🛠️ Skilled in **C#**, **.NET**, **JavaScript**, **TypeScript**, **Python**, **HTML**, **CSS**, and **SQL**
+- 🌐 Building a photography solution website and Windows apps @ Velocity Squared
 
 ---
 
@@ -19,8 +20,11 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
 </p>
@@ -38,9 +42,11 @@
 
 ### 💻 Personal Projects
 
-- ❄️ Snowflake Discord Bot - Personal Discord bot that helps maintain my community Discord server
+- 🏈 College Football Pick'em - React + ASP.NET Core app where friends compete picking game winners against the spread, powered by live ESPN data
+- 💬 Discord Bot - Python bot that generates richer Twitter/X and Instagram embeds; running daily in a server with 90+ members
 - 🖥️ Personal Website
 
+---
 
 ### 📫 How to Reach Me
 
