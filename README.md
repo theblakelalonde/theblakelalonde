@@ -44,7 +44,7 @@
 
 - 🏈 College Football Pick'em - React + ASP.NET Core app where friends compete picking game winners against the spread, powered by live ESPN data
 - 💬 Discord Bot - Python bot that generates richer Twitter/X and Instagram embeds; running daily in a server with 90+ members
-- 🖥️ Personal Website
+- 🖥️ [Personal Website](https://blakelalonde.com/)
 
 ---
 
